@@ -1,5 +1,5 @@
 homepage: "https://useinsider.com/"
 documentation: "https://developers.useinsider.com/docs"
 versions:
-  - sha: 7d1ef69606be2a8bb197690d1bf5d42c9a283563
-    changeNotes: First release cart amount identifier.
+  - sha: 6c9082d7f0c496119da3aca0a7030f015fba28ce
+    changeNotes: First release coupon page identifier.
